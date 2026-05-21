@@ -74,6 +74,15 @@ Get the latest version of the application in the **Releases** section of this re
 
 ---
 
+⚠️ Disclaimer: Antivirus False Positive
+Note: Some antivirus software (like Bkav Pro) may flag this application as malware (e.g., W32.Malware).
+
+Do not worry. This is a False Positive.
+
+This happens because the app is packed using PyInstaller, a technique sometimes used by malware, but also standard for Python apps.
+The application is 100% safe and open-source. It contains no harmful code.
+If you are unsure, you can scan the file at VirusTotal.com and see that the majority of vendors mark it as safe.
+
 ## 📜 License
 This application is **FREE and Not For Sale**. Intended to help the stock photography community.
 
