@@ -2,9 +2,10 @@
 
 # NS MetaRefiner
 
-![Version](https://shields.io)
-![Platform](https://shields.io)
-![License](https://shields.io)
+<!-- Badges menggunakan HTML murni agar tidak pecah di dalam center div -->
+<img src="https://shields.io" alt="Version">&nbsp;
+<img src="https://shields.io" alt="Platform">&nbsp;
+<img src="https://shields.io" alt="License">
 
 ## ❤️ Support Development
 
@@ -12,10 +13,12 @@ If this tool helps your workflow, please consider a donation.
 
 <br>
 
-[![Donate SociaBuzz](https://shields.io)](https://sociabuzz.com/ns_metarefiner/donate)
+<!-- Tombol Donasi Dua Warna HTML Murni -->
+<a href="https://sociabuzz.com" target="_blank">
+  <img src="https://shields.io" alt="Donate SociaBuzz">
+</a>
 
-<br>
-<br>
+<br><br>
 
 ### A Professional Desktop Application for Stock Photography Contributors.
 ### *Hybrid AI Architecture for Metadata Generation & Smart Sorting.*
