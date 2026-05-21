@@ -11,12 +11,7 @@ If this tool helps your workflow, please consider a donation.
 
 <br>
 
-<a href="URL_DONASI_ANDA" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #28a745; color: white; padding: 12px 24px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">
-        Donasi Sekarang
-    </button>
-</a>
-
+<a href="https://sociabuzz.com/ns_metarefiner/donate"><img alt="Donate" src="https://img.shields.io/badge/Donate-Sociabuzz-yellow?style=for-the-badge&amp;logo=heart"></a>
 
 <br><br>
 
