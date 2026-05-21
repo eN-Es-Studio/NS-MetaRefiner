@@ -12,8 +12,8 @@ If this tool helps your workflow, please consider a donation.
 <br>
 
 <!-- Tombol Donasi menggunakan gambar statis beresolusi tinggi agar tidak bergantung pada server luar -->
-<a href="https://sociabuzz.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate" width="220">
+<a href="https://your-donation-link.com" class="donate-button">
+  Donate Now
 </a>
 
 <br><br>
