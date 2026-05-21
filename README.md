@@ -2,7 +2,7 @@
 
 # NS MetaRefiner
 <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue">
-<!-- Lencana versi, platform, dan lisensi menggunakan teks murni bergaya kode agar aman dan langsung tampil -->
+<img alt="Platform" src="https://img.shields.io/badge/platform-Windows-lightgrey">
 <code>Version: 1.0.0</code> &nbsp;•&nbsp; <code>Platform: Windows</code> &nbsp;•&nbsp; <code>License: Free</code>
 
 ## ❤️ Support Development
