@@ -1,14 +1,28 @@
+<div align="center">
+
 # NS MetaRefiner
 
-<div align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="Platform">
-  <img src="https://img.shields.io/badge/license-Free-green" alt="License">
+![Version](https://shields.io)
+![Platform](https://shields.io)
+![License](https://shields.io)
+
+## ❤️ Support Development
+
+If this tool helps your workflow, please consider a donation.
+
+<br>
+
+[![Donate SociaBuzz](https://shields.io)](https://sociabuzz.com/ns_metarefiner/donate)
+
+<br>
+<br>
+
+### A Professional Desktop Application for Stock Photography Contributors.
+### *Hybrid AI Architecture for Metadata Generation & Smart Sorting.*
+
+**Developer: eN-Es-Studio**
+
 </div>
-
-A Professional Desktop Application for Stock Photography Contributors. Powered by a **Hybrid AI Architecture** for Metadata Generation & Smart Sorting.
-
-**Developer:** eN-Es-Studio
 
 ---
 
@@ -51,22 +65,6 @@ Embeds IPTC/XMP metadata directly into files (`JPEG`, `PNG`, `MP4`, `PDF`) using
 
 ## 📥 Download
 Get the latest version of the application in the **Releases** section of this repository.
-
----
-
-## ❤️ Support Development
-<table width="100%">
-  <tr>
-    <td bgcolor="#21262d" align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-      <h3 style="color: #58a6ff; margin-top: 0; font-size: 20px;">❤️ Support Development</h3>
-      <p style="color: #e6edf3; font-size: 15px;">If this tool helps your workflow, please consider a donation.</p>
-      <br>
-      <a href="https://trakteer.id" target="_blank" style="background-color: #d4af37; color: #000000; font-weight: bold; padding: 12px 35px; border-radius: 6px; text-decoration: none; display: inline-block; font-size: 16px; box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);">💰 Donate Now</a>
-      <br><br>
-      <p style="color: #8b949e; font-size: 12px;">Supported via Trakteer, SociaBuzz, or PayPal</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
