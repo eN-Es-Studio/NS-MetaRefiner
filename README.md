@@ -2,10 +2,8 @@
 
 # NS MetaRefiner
 
-<!-- Badges menggunakan HTML murni agar tidak pecah di dalam center div -->
-<img src="https://shields.io" alt="Version">&nbsp;
-<img src="https://shields.io" alt="Platform">&nbsp;
-<img src="https://shields.io" alt="License">
+<!-- Lencana versi, platform, dan lisensi menggunakan teks murni bergaya kode agar aman dan langsung tampil -->
+<code>Version: 1.0.0</code> &nbsp;•&nbsp; <code>Platform: Windows</code> &nbsp;•&nbsp; <code>License: Free</code>
 
 ## ❤️ Support Development
 
@@ -13,9 +11,9 @@ If this tool helps your workflow, please consider a donation.
 
 <br>
 
-<!-- Tombol Donasi Dua Warna HTML Murni -->
+<!-- Tombol Donasi menggunakan gambar statis beresolusi tinggi agar tidak bergantung pada server luar -->
 <a href="https://sociabuzz.com" target="_blank">
-  <img src="https://shields.io" alt="Donate SociaBuzz">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate" width="220">
 </a>
 
 <br><br>
