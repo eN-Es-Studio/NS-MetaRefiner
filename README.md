@@ -11,7 +11,12 @@ If this tool helps your workflow, please consider a donation.
 
 <br>
 
-<script type="text/javascript" src="https://storage.sociabuzz.com/storage/js/main/buttononwebsite/index.min.js"></script><script>sbBoW.draw("ns_metarefiner","RE9OQVRF","position-top-middle","#ff9900","#FFFFFF")</script>
+<a href="URL_DONASI_ANDA" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #28a745; color: white; padding: 12px 24px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">
+        Donasi Sekarang
+    </button>
+</a>
+
 
 <br><br>
 
