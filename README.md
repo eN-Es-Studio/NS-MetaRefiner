@@ -1,9 +1,9 @@
 # NS MetaRefiner
 
-<div align="left">
-  <img src="https://shields.io" alt="Version">
-  <img src="https://shields.io" alt="Platform">
-  <img src="https://shields.io" alt="License">
+<div align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="Platform">
+  <img src="https://img.shields.io/badge/license-Free-green" alt="License">
 </div>
 
 A Professional Desktop Application for Stock Photography Contributors. Powered by a **Hybrid AI Architecture** for Metadata Generation & Smart Sorting.
