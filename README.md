@@ -3,7 +3,7 @@
 # NS MetaRefiner
 <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue">
 <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-lightgrey">
-<code>Version: 1.0.0</code> &nbsp;•&nbsp; <code>Platform: Windows</code> &nbsp;•&nbsp; <code>License: Free</code>
+<img alt="License" src="https://img.shields.io/badge/license-Free-green">
 
 ## ❤️ Support Development
 
