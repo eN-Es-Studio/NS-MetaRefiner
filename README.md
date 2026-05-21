@@ -1,52 +1,46 @@
-NS MetaRefiner
-VersionPlatformLicense
+# Nama Proyek Anda 🚀
 
-❤️ Support Development
-If this tool helps your workflow, please consider a donation.
+Deskripsikan proyek Anda di sini. Jelaskan apa fungsi proyek tersebut, masalah apa yang diselesaikan, dan mengapa proyek ini bermanfaat bagi orang lain.
 
-Donate
+## 🛠️ Fitur Utama
+- [Fitur 1]: Penjelasan singkat tentang fitur ini.
+- [Fitur 2]: Penjelasan singkat tentang fitur ini.
+- [Fitur 3]: Penjelasan singkat tentang fitur ini.
 
-NS MetaRefiner is a professional desktop application designed to streamline the workflow of stock photography contributors. By leveraging a Hybrid AI Architecture, it automates metadata generation and quality control sorting.
+## 📦 Cara Penggunaan
+Berikan instruksi singkat cara menjalankan proyek Anda di sini:
+```bash
+git clone https://github.com
+cd nama-repositori
+npm install
+npm start
+```
 
-Developer: eN-Es-Studio
+## 🤝 Berkontribusi
+Kami sangat terbuka bagi siapa saja yang ingin berkontribusi pada proyek ini! Silakan baca panduan [CONTRIBUTING.md] untuk detail lebih lanjut.
 
-✨ Key Features
-🧠 Hybrid AI Engine
-Local Mode (Florence-2): 100% offline processing. No API costs, unlimited usage.
-Cloud Mode: Supports Gemini, Groq, Mistral, and OpenAI for high-precision analysis.
-🗑️ Intelligent Smart Sorting
-Automatically detects and separates defective images:
+## 💖 Dukung Proyek Ini
+Jika proyek ini membantu pekerjaan Anda atau Anda menyukainya, pertimbangkan untuk memberikan donasi guna mendukung pemeliharaan dan pengembangan proyek ini:
 
-Watermarks & Signatures
-AI Artifacts (extra fingers, distorted limbs)
-Technical Issues (blur, noise, exposure errors)
-Copyrighted text/Logos
-🔍 SEO-Optimized Metadata
-Generates descriptive titles automatically.
-Creates 25-50 relevant commercial keywords.
-Removes "stop words" and adds synonyms for better visibility.
-📂 Multi-Agency CSV Export
-Generates separate CSV files formatted for:Adobe Stock • Shutterstock • 123RF • Vecteezy • Depositphotos • Freepik • Getty Images • Miri Canvas
+### Pilihan Donasi:
 
-💾 Universal Metadata Embedding
-Embeds IPTC/XMP metadata directly into files (JPEG, PNG, MP4, PDF) using Python libraries and ExifTool.
+<!-- Tombol Teks Sederhana -->
+<p>
+  <a href="https://sociabuzz.com">☕ Traktir Kopi via SociaBuzz</a> &nbsp;•&nbsp;
+  <a href="https://trakteer.id">🧡 Dukung via Trakteer</a> &nbsp;•&nbsp;
+  <a href="https://paypal.me">💵 Dukung via PayPal</a>
+</p>
 
-🚀 How to Use
-Download the latest release from the Releases page.
-Extract the ZIP file.
-Run NS_MetaRefiner.exe.
-Select your input files/folder.
-Choose your AI Engine (Local is recommended for speed).
-Click START PROCESSING.
-📥 Download
-Get the latest version of the application in the Releases section of this repository.
+### Tombol Gambar / Badge (Direkomendasikan):
+<br>
 
-⚙️ Tech Stack
-Language: Python 3.10
-GUI: CustomTkinter
-AI Models: Microsoft Florence-2, Google Gemini, Meta Llama (Groq), Mistral.
-Libraries: Transformers, PyTorch, OpenCV, Pillow, PyMuPDF.
-📜 License
-This application is FREE and Not For Sale.Intended to help the stock photography community.
+[![SociaBuzz](https://shields.io)](https://sociabuzz.com)
 
-© 2026 eN-Es-Studio. All Rights Reserved.
+[![Trakteer](https://shields.io)](https://trakteer.id)
+
+[![PayPal](https://shields.io)](https://paypal.me)
+
+[![BuyMeACoffee](https://shields.io)](https://buymeacoffee.com)
+
+---
+Dibuat dengan 💙 oleh [Nama/Username Anda]
