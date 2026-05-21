@@ -11,10 +11,7 @@ If this tool helps your workflow, please consider a donation.
 
 <br>
 
-<!-- Tombol Donasi menggunakan gambar statis beresolusi tinggi agar tidak bergantung pada server luar -->
-<a href="https://your-donation-link.com" class="donate-button">
-  Donate Now
-</a>
+<script type="text/javascript" src="https://storage.sociabuzz.com/storage/js/main/buttononwebsite/index.min.js"></script><script>sbBoW.draw("ns_metarefiner","RE9OQVRF","position-top-middle","#ff9900","#FFFFFF")</script>
 
 <br><br>
 
