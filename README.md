@@ -1,5 +1,7 @@
-<div align="center">
 ![Downloads](https://img.shields.io/github/downloads/eN-Es-Studio/NS-MetaRefiner/total)
+
+<div align="center">
+
 # NS MetaRefiner
 <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue">
 <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-lightgrey">
