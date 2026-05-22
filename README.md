@@ -1,5 +1,3 @@
-![Downloads](https://img.shields.io/github/downloads/eN-Es-Studio/NS-MetaRefiner/total)
-
 <div align="center">
 
 # NS MetaRefiner
