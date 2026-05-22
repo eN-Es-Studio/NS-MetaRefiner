@@ -6,7 +6,7 @@
 <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue">
 <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-lightgrey">
 <img alt="License" src="https://img.shields.io/badge/license-Free-green">
-<img alt="Downloads" src="(https://img.shields.io/github/downloads/eN-Es-Studio/NS-MetaRefiner/total)">
+<img alt="Downloads" src="https://img.shields.io/github/downloads/eN-Es-Studio/NS-MetaRefiner/total">
 
 ## ❤️ Support Development
 
