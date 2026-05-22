@@ -89,6 +89,8 @@ This happens because the app is packed using PyInstaller, a technique sometimes 
 The application is 100% safe and open-source. It contains no harmful code.
 If you are unsure, you can scan the file at VirusTotal.com and see that the majority of vendors mark it as safe.
 
+---
+
 ## 📜 License
 This application is **FREE and Not For Sale**. Intended to help the stock photography community.
 
