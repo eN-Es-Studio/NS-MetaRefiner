@@ -74,6 +74,12 @@ Get the latest version of the application in the **Releases** section of this re
 
 ---
 
+🪟 SPESIFIKASI
+- OS: Windows 10/11 (64-bit)
+- RAM: Min. 8GB (Rec. 16GB)
+
+---
+
 ⚠️ Disclaimer: Antivirus False Positive
 Note: Some antivirus software (like Bkav Pro) may flag this application as malware (e.g., W32.Malware).
 
