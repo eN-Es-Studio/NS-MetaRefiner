@@ -12,7 +12,7 @@ If this tool helps your workflow, please consider a donation.
 
 <br>
 
-<a href="https://sociabuzz.com/ns_metarefiner/donate"><img alt="Donate" src="https://img.shields.io/badge/Donate-Sociabuzz-yellow?style=for-the-badge&amp;logo=heart"></a>
+<a href="https://s.id/eN-Es-4"><img alt="Donate" src="https://img.shields.io/badge/Donate-Sociabuzz-yellow?style=for-the-badge&amp;logo=heart"></a>
 
 <br><br>
 
