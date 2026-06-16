@@ -1,3 +1,4 @@
 {
-  "changelog": "• Portable Integration: Dukungan bundle ExifTool yang lebih stabil.\n• Robust Check System: Perbaikan logika pendeteksian alat.\n• Dependency Management: Aplikasi lebih ringan & optimal.\n• UI/UX: Penyegaran ikon dan tampilan aplikasi."
+  "latest_version": "3.0.0",
+  "changelog": "• Portable Integration: Dukungan bundle ExifTool.\n• Robust Check System: Perbaikan sistem.\n• UI/UX: Penyegaran ikon."
 }
