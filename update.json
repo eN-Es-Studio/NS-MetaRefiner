@@ -1,5 +1,5 @@
 {
   "latest_version": "3.0.0",
-  "download_url": "https://github.com/eN-Es-Studio/NS-MetaRefiner/releases/latest",
+  "download_url": "https://github.com/eN-Es-Studio/NS-MetaRefiner/releases/download/v3.0.0/NS_MetaRefiner_v3.0.0.zip",
   "changelog": "• Portable Integration: Dukungan bundle ExifTool yang lebih stabil.\n• Robust Check System: Perbaikan logika pendeteksian alat.\n• Dependency Management: Aplikasi lebih ringan & optimal.\n• UI/UX: Penyegaran ikon dan tampilan aplikasi."
 }
