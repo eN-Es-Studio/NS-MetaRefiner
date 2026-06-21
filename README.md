@@ -101,4 +101,7 @@ If you are unsure, you can scan the file at VirusTotal.com and see that the majo
 ## 📜 License
 This application is **FREE and Not For Sale**. Intended to help the stock photography community.
 
+Tags: ns-metarefiner, metadata editor, microstock metadata tool, automatic metadata generator, shutterstock bulk upload helper, adobe stock csv generator, freepik metadata editor, image smart sorting AI, florence-2 local ai, offline ai image sorting, ai artifact detector, video metadata embedder, vector metadata editor, free metadata tool, open source metadata tool.
+
+
 © 2026 eN-Es-Studio. All Rights Reserved.
